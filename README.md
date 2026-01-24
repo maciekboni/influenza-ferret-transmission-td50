@@ -7,6 +7,7 @@ The TD50 is defined as the donor inoculation dose that results in transmission t
 This is the supplementary material for the manuscript:
 
 > Defining the transmissible dose 50% for two pandemic influenza viruses in ferrets.
+> 
 > C. J. Field, K.M. Septer, D.R. Patel, V.C Weaver, D.G. Sim, K. H. Restori, M.F. Boni, T.C. Sutton
 
 
